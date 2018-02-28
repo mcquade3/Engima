@@ -1,5 +1,5 @@
 # Engima
-A Perl version of the famed Enigma machine used in World War II
+A Python version of the famed Enigma machine used in World War II
 
 The program works by reading input from a text file.
 
